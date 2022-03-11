@@ -1,4 +1,4 @@
-SRC_GATEWAY=https://api.avax-test.network/ext/bc/C/rpc/
+SRC_GATEWAY=https://api.avax-test.network/ext/bc/C/rpc
 DST_GATEWAY=https://testnet-rpc.swimmer.network/ext/bc/2Sk6j8TYVQc2oR1TtUz64EWHAYjDUoDQ4hpbu6FMN2JBKC77xa/rpc
 
 SRC_ADDR="0x31d3892EC556D1656F907A621DDf684aa241cEB2"
